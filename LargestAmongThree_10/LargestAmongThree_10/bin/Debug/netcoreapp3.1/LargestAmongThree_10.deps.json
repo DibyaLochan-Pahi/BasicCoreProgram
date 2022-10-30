@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LargestAmongThree_10/1.0.0": {
+        "runtime": {
+          "LargestAmongThree_10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LargestAmongThree_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
